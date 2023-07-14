@@ -1,0 +1,109 @@
+body{
+  font-family: arial;
+}
+.top{
+  background-color: rgb(27, 27, 27);
+  margin-bottom: 70px;
+  height: 600px;
+}
+.top-menu{
+  padding-top: 30px;
+  
+}
+h1 {
+  font-size: 70px;
+}
+.home, .about, .achiev{
+  color: rgb(172, 172, 172);
+  font-weight: bold;
+  font-size: medium;
+  padding-right: 40px;
+}
+.person {
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+}
+.info{
+  font-size: 30px;
+}
+
+.middle-box-3{
+  background-color: rgb(27, 27, 27);
+  height: 150px;
+}
+.middle-box-4{
+  background-color: white;
+}
+.middle-box-5{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.middle-box-6{
+  margin-bottom: 50px;
+}
+.end{
+  height: 250px;
+  background-color: rgb(27, 27, 27);
+}
+.content {
+  font-size: 20px;
+}
+
+h3{
+  font-weight: bold;
+}
+
+img {
+  height: 500px;
+  border-radius: 6px;
+}
+
+.img-kazi{
+  margin-top: 80px;
+}
+.middle-box-2 {
+  margin-top: 70px;
+}
+.btn-secondary, .btn-danger {
+  margin: 6px;
+  margin-bottom: 100px;
+}
+.learn, .videos, .book {
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: none;
+}
+.book {
+  background-color: rgba(203, 108, 0, 0.893);
+}
+.learn {
+  color: rgb(101, 101, 101);
+  font-weight: bold;
+  background-color: rgb(209, 209, 209);
+}
+.videos , .book {
+  font-weight: bold;
+}
+.quote {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  padding-top: 50px;
+}
+.award {
+  text-align: center;
+  margin-top: 40px;
+}
+.aw-name {
+  font-size: large;
+  padding-top: 7px;
+}
+.col-md-3 {
+  border-radius: 10px;
+}
+h4 {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
